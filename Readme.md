@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to store a focused row index in cookies
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5089/)**
+<!-- run online end -->
 
 
 <p>ASPxGridView does not save a focused row in cookies. However, you can add this capability by saving and restoring a focused row index to cookies manually:</p><br />
