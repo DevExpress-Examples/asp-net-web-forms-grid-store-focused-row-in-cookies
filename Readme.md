@@ -9,7 +9,7 @@
 <!-- run online end -->
 
 
-[ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) does not save a focused row in cookies. This example demonstrates how to save and restore a focused row index to cookies manually.
+[ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) does not save a focused row in cookies. This example demonstrates how to save and restore a focused row index to cookies.
 
 ```js
 function OnFocusedRowChanged(s, e) {
