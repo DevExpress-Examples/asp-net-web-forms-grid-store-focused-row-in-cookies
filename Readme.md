@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid View for ASP.NET Web Forms - How to store a focused row index in cookies
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128535912/)**
-<!-- run online end -->
 
 
 [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView) does not save a focused row in cookies. This example demonstrates how to save and restore a focused row index to cookies.
